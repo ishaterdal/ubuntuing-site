@@ -1,7 +1,7 @@
 import React from "react";
 import image from "../DSC03130.JPG";
 
-export default function home() {
+export default function Home() {
         return (
                 <main>
                         <img src={image} alt="SF skyline" className="absolute object-cover w-full h-full"/>
